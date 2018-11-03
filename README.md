@@ -3,7 +3,7 @@
 Solution to improve healthcare in Maharashtra (part of Social Cops challenge)
 This repository contains solution for the problem "Improving Healthcare in Maharashtra"
 
-# Data Scources
+# Data Sources
 
 All datasets used are open source:
 1. https://www.kaggle.com/c/predict-impact-of-air-quality-on-death-rates/data: Dataset containing mortality rate and pollution levels in various regions of England.
